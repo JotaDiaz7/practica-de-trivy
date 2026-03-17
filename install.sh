@@ -3,7 +3,7 @@
 # +--------------------+
 # GENERAL
 # +--------------------+
-
+# ------
 ## Installs dependencies for Trivy course
 
 ## Tested on (3/2021):
